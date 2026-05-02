@@ -1,0 +1,15 @@
+Position: Waiter
+Name: junaid
+Phone: 00000000
+Experience: 2 years
+----------------------------------------
+Position: Chef
+Name: Ahmad
+Phone: 9091021
+Experience: 2 years
+----------------------------------------
+Position: Manager
+Name: Ali
+Phone: 02321
+Experience: 3 years
+----------------------------------------

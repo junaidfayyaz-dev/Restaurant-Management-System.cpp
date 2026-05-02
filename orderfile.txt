@@ -1,0 +1,25 @@
+
+Customer: Ali, Phone: 123456789098
+Order Summary:
+Total Bill: Rs.0
+Tax: Rs.0
+Tip: Rs.0
+Total Bill after Tax and Tip: Rs.0
+----------------------------------------
+Customer: Ali, Phone: 123456789098
+Order Summary:
+Chicken White Karahi x 4 - Rs.760
+Total Bill: Rs.684
+Tax: Rs.76
+Tip: Rs.100
+Total Bill after Tax and Tip: Rs.860
+----------------------------------------
+Customer: Ali, Phone: 003234002869
+Order Summary:
+Chicken Tikka Karahi x 5 - Rs.900
+Tandoori Naan x 5 - Rs.125
+Total Bill: Rs.923
+Tax: Rs.102.5
+Tip: Rs.100
+Total Bill after Tax and Tip: Rs.1125.5
+----------------------------------------
